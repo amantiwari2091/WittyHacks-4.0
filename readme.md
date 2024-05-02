@@ -1,6 +1,6 @@
 # WittyHacks 4.0 - Hackathon Repository by Data Code
 
-Organisation Repository - https://github.com/Wittyhacks4CR003/WH023_Team_Lightning
+Organization Repository - https://github.com/Wittyhacks4CR003/WH023_Team_Lightning
 ## 1. Introduction
 
 🚀 Welcome to the WittyHacks 4.0 Hackathon Repository! 🎉
